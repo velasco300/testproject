@@ -10,6 +10,9 @@ class CarsController < ApplicationController
 def hello
 end
 
+def aaa
+end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_car
