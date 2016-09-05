@@ -7,6 +7,8 @@ class CarsController < ApplicationController
   def show
   end
 
+def hello
+end
 
   private
     # Use callbacks to share common setup or constraints between actions.
