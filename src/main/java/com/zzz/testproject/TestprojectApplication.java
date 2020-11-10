@@ -9,6 +9,7 @@ public class TestprojectApplication {
 	public static void main(String[] args) {
 		System.out.println("----------------");
 		SpringApplication.run(TestprojectApplication.class, args);
+		System.out.println("=============");
 	}
 
 }
